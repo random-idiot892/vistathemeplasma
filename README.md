@@ -1,4 +1,5 @@
 # VistaThemePlasma
+This fork exists for me to change code and see how vistathemeplasma works
 
 ## Microsoft® Windows™ is a registered trademark of Microsoft® Corporation. This name is used for referential use only, and does not aim to usurp copyrights from Microsoft. Microsoft Ⓒ 2026 All rights reserved. All resources belong to Microsoft Corporation.
 
